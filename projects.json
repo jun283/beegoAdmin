@@ -1,6 +1,6 @@
 {
  	"Name": "beegoAdmin", // 案例名称
- 	"Thumb": "beegoAdmin.jpg", // 图片路径 （可选）
+ 	"Thumb": "beegoAdmin.jpeg", // 图片路径 （可选）
  	"Desc": "Beego with Admin template", // 案例描述
  	"Url": "", // 案例URL地址
  	"Src": "https://github.com/jun283/beegoAdmin", // 项目源码地址 （可选）
